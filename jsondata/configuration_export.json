@@ -1,0 +1,5 @@
+[
+    { "param": "format", "type": "string" },
+    { "param": "prettyprint", "type": "boolean" },
+    { "param": "options", "type": "object" }
+]

@@ -1,0 +1,23 @@
+[
+    { "param": "dserviceids", "type": "string/array" },
+    { "param": "dhostids", "type": "string/array" },
+    { "param": "dcheckids", "type": "string/array" },
+    { "param": "druleids", "type": "string/array" },
+    { "param": "selectDRules", "type": "query" },
+    { "param": "selectDHosts", "type": "query" },
+    { "param": "selectHosts", "type": "query" },
+    { "param": "limitSelects", "type": "integer" },
+    { "param": "sortfield", "type": "string/array" },
+    { "param": "countOutput", "type": "boolean" },
+    { "param": "editable", "type": "boolean" },
+    { "param": "excludeSearch", "type": "boolean" },
+    { "param": "filter", "type": "object" },
+    { "param": "limit", "type": "integer" },
+    { "param": "output", "type": "query" },
+    { "param": "preservekeys", "type": "boolean" },
+    { "param": "search", "type": "object" },
+    { "param": "searchByAny", "type": "boolean" },
+    { "param": "searchWildcardsEnabled", "type": "boolean" },
+    { "param": "sortorder", "type": "string/array" },
+    { "param": "startSearch", "type": "boolean" }
+]

@@ -1,0 +1,4 @@
+[
+    { "param": "default", "type": "object" },
+    { "param": "tags", "type": "object" }
+]

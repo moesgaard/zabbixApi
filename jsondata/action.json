@@ -1,0 +1,52 @@
+    { "default":
+        [
+            { "param": "actionid", "type": "string" },
+            { "param": "esc_period", "type": "string" },
+            { "param": "eventsource", "type": "integer" },
+            { "param": "name", "type": "string" },
+            { "param": "status", "type": "integer" },
+            { "param": "pause_symptoms", "type": "integer" },
+            { "param": "pause_suppressed", "type": "integer" },
+            { "param": "notify_if_canceled", "type": "integer" }
+        ],
+        "operations": [
+            { "param": "operationtype", "type": "integer" },
+            { "param": "esc_period", "type": "string" },
+            { "param": "esc_step_from", "type": "integer" },
+            { "param": "esc_step_to", "type": "integer" },
+            { "param": "evaltype", "type": "integer" },
+            { "param": "opcommand", "type": "object" },
+            { "param": "opcommand_grp", "type": "array" },
+            { "param": "opcommand_hst", "type": "array" },
+            { "param": "opconditions", "type": "array" },
+            { "param": "opgroup", "type": "array" },
+            { "param": "opmessage", "type": "object" },
+            { "param": "opmessage_grp", "type": "array" },
+            { "param": "opmessage_usr", "type": "array" },
+            { "param": "optemplate", "type": "array" },
+            { "param": "opinventory", "type": "object" }
+        ],
+        "filter": [
+            { "param": "conditiontype", "type": "integer" },
+            { "param": "value", "type": "string" },
+            { "param": "operator", "type": "integer" } ],
+        "recovery_operations": [
+            { "param": "operationtype", "type": "integer" },
+            { "param": "opcommand", "type": "object" },
+            { "param": "opcommand_grp", "type": "array" },
+            { "param": "opcommand_hst", "type": "array" },
+            { "param": "opmessage", "type": "object" },
+            { "param": "opmessage_grp", "type": "array" },
+            { "param": "opmessage_usr", "type": "array" } ],
+        "update_operations":
+        [
+            { "param": "operationtype", "type": "integer" },
+            { "param": "opcommand", "type": "object" },
+            { "param": "opcommand_grp", "type": "array" },
+            { "param": "opcommand_hst", "type": "array" },
+            { "param": "opmessage", "type": "object" },
+            { "param": "opmessage_grp", "type": "array" },
+            { "param": "opmessage_usr", "type": "array" }
+        ]
+    }
+    

@@ -1,0 +1,7 @@
+
+[ 
+{  "param": "filter", "type": "object" }, 
+{  "param": "operations", "type": "array" }, 
+{  "param": "recovery_operations", "type": "array" }, 
+{  "param": "update_operations", "type": "array" } 
+]

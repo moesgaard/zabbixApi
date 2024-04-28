@@ -1,0 +1,12 @@
+[
+    { "param": "dserviceid", "type": "string" },
+    { "param": "dcheckid", "type": "string" },
+    { "param": "dhostid", "type": "string" },
+    { "param": "dns", "type": "string" },
+    { "param": "ip", "type": "string" },
+    { "param": "lastdown", "type": "timestamp" },
+    { "param": "lastup", "type": "timestamp" },
+    { "param": "port", "type": "integer" },
+    { "param": "status", "type": "integer" },
+    { "param": "value", "type": "string" }
+]

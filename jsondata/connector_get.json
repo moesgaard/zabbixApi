@@ -1,0 +1,16 @@
+[
+    { "param": "connectorids", "type": "string/array" },
+    { "param": "selectTags", "type": "query" },
+    { "param": "sortfield", "type": "string/array" },
+    { "param": "countOutput", "type": "boolean" },
+    { "param": "excludeSearch", "type": "boolean" },
+    { "param": "filter", "type": "object" },
+    { "param": "limit", "type": "integer" },
+    { "param": "output", "type": "query" },
+    { "param": "preservekeys", "type": "boolean" },
+    { "param": "search", "type": "object" },
+    { "param": "searchByAny", "type": "boolean" },
+    { "param": "searchWildcardsEnabled", "type": "boolean" },
+    { "param": "sortorder", "type": "string/array" },
+    { "param": "startSearch", "type": "boolean" }
+]

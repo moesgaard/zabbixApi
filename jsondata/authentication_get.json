@@ -1,0 +1,18 @@
+[
+    { "param": "authentication_type", "type": "integer" },
+    { "param": "http_auth_enabled", "type": "integer" },
+    { "param": "http_login_form", "type": "integer" },
+    { "param": "http_strip_domains", "type": "string" },
+    { "param": "http_case_sensitive", "type": "integer" },
+    { "param": "ldap_auth_enabled", "type": "integer" },
+    { "param": "ldap_case_sensitive", "type": "integer" },
+    { "param": "ldap_userdirectoryid", "type": "string" },
+    { "param": "saml_auth_enabled", "type": "integer" },
+    { "param": "saml_case_sensitive", "type": "integer" },
+    { "param": "passwd_min_length", "type": "integer" },
+    { "param": "passwd_check_rules", "type": "integer" },
+    { "param": "ldap_jit_status", "type": "integer" },
+    { "param": "saml_jit_status", "type": "integer" },
+    { "param": "jit_provision_interval", "type": "string" },
+    { "param": "disabled_usrgrpid", "type": "integer" }
+]

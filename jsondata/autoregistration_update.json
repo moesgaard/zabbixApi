@@ -1,0 +1,5 @@
+[
+    { "param": "tls_accept", "type": "integer" },
+    { "param": "tls_psk_identity", "type": "string" },
+    { "param": "tls_psk", "type": "string" }
+]

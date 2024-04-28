@@ -1,0 +1,18 @@
+[
+    { "param": "dcheckid", "type": "string" },
+    { "param": "druleid", "type": "string" },
+    { "param": "key_", "type": "string" },
+    { "param": "ports", "type": "string" },
+    { "param": "snmp_community", "type": "string" },
+    { "param": "snmpv3_authpassphrase", "type": "string" },
+    { "param": "snmpv3_authprotocol", "type": "integer" },
+    { "param": "snmpv3_contextname", "type": "string" },
+    { "param": "snmpv3_privpassphrase", "type": "string" },
+    { "param": "snmpv3_privprotocol", "type": "integer" },
+    { "param": "snmpv3_securitylevel", "type": "string" },
+    { "param": "snmpv3_securityname", "type": "string" },
+    { "param": "type", "type": "integer" },
+    { "param": "uniq", "type": "integer" },
+    { "param": "host_source", "type": "integer" },
+    { "param": "name_source", "type": "integer" }
+]

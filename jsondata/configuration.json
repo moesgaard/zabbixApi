@@ -1,0 +1,33 @@
+{
+    "default": [
+        { "param": "format", "type": "string" },
+        { "param": "source", "type": "string" },
+        { "param": "rules", "type": "object" }
+    ],
+    "rules": [
+        { "param": "discoveryRules", "type": "object" },
+        { "param": "graphs", "type": "object" },
+        { "param": "host_groups", "type": "object" },
+        { "param": "template_groups", "type": "object" },
+        { "param": "hosts", "type": "object" },
+        { "param": "httptests", "type": "object" },
+        { "param": "images", "type": "object" },
+        { "param": "items", "type": "object" },
+        { "param": "maps", "type": "object" },
+        { "param": "mediaTypes", "type": "object" },
+        { "param": "templateLinkage", "type": "object" },
+        { "param": "templates", "type": "object" },
+        { "param": "templateDashboards", "type": "object" },
+        { "param": "triggers", "type": "object" },
+        { "param": "valueMaps", "type": "object" }
+    ],
+    "options": [
+        { "params": "host_groups", "type": "array" },
+        { "params": "hosts ", "type": "array" },
+        { "params": "images ", "type": "array" },
+        { "params": "maps ", "type": "array" },
+        { "params": "mediaTypes", "type": "array" },
+        { "params": "template_groups", "type": "array" },
+        { "params": "templates", "type": "array" }
+    ]
+}

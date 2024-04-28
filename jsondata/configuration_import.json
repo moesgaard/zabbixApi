@@ -1,0 +1,5 @@
+[
+    { "param": "format", "type": "string" },
+    { "param": "source", "type": "string" },
+    { "param": "rules", "type": "object" }
+]

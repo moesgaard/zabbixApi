@@ -1,0 +1,18 @@
+[ 
+{ "param": "auditids", "type": "string/array" },
+{ "param": "userids", "type": "string/array" },
+{ "param": "time_from", "type": "timestamp" },
+{ "param": "time_till", "type": "timestamp" },
+{ "param": "sortfield", "type": "string/array" },
+{ "param": "filter", "type": "object" },
+{ "param": "search", "type": "object" },
+{ "param": "countOutput", "type": "boolean" },
+{ "param": "excludeSearch", "type": "boolean" },
+{ "param": "limit", "type": "integer" },
+{ "param": "output", "type": "query" },
+{ "param": "preservekeys", "type": "boolean" },
+{ "param": "searchByAny", "type": "boolean" },
+{ "param": "searchWildcardsEnabled", "type": "boolean" },
+{ "param": "sortorder", "type": "string/array" },
+{ "param": "startSearch", "type": "boolean" } 
+]

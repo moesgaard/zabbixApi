@@ -1,0 +1,30 @@
+{
+    "default": [
+        { "param": "connectorid", "type": "string" },
+        { "param": "name", "type": "string" },
+        { "param": "url", "type": "string" },
+        { "param": "protocol", "type": "integer" },
+        { "param": "data_type", "type": "integer" },
+        { "param": "max_records", "type": "integer" },
+        { "param": "max_senders", "type": "integer" },
+        { "param": "max_attempts", "type": "integer" },
+        { "param": "timeout", "type": "string" },
+        { "param": "http_proxy", "type": "string" },
+        { "param": "authtype", "type": "integer" },
+        { "param": "username", "type": "string" },
+        { "param": "password", "type": "string" },
+        { "param": "token", "type": "string" },
+        { "param": "verify_peer", "type": "integer" },
+        { "param": "verify_host", "type": "integer" },
+        { "param": "ssl_cert_file", "type": "string" },
+        { "param": "ssl_key_file", "type": "string" },
+        { "param": "ssl_key_password", "type": "string" },
+        { "param": "description", "type": "text" },
+        { "param": "status", "type": "integer" },
+        { "param": "tags_evaltype", "type": "integer" } ],
+    "tags": [
+        { "param": "tag", "type": "string" },
+        { "param": "operator", "type": "integer" },
+        { "param": "value", "type": "string" }
+    ]
+}
